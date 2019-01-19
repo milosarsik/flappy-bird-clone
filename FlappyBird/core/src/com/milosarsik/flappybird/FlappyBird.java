@@ -75,10 +75,6 @@ public class FlappyBird extends ApplicationAdapter
 
         startGame();
 
-
-
-
-
     }
 
     public void startGame() {
